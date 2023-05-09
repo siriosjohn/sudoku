@@ -1,7 +1,6 @@
 # sudoku
 
-This is a simple C program to check, solve and generate sudoku Puzzles.
-For solving a puzzle I used a backtracking algorithm.
+This is a simple C program to generate, solve and check sudoku Puzzles using backtracking and recursion.
 
 Accpetable arguments:
 
@@ -14,6 +13,3 @@ Generates a puzzle that has 'nelts' non-empty ellements.
 
 Running the executable with no arguments expects input of a Sudoku
 puzzle from the user and then solves it using a backtracking algorithm.
-
-
-This was an assignment of a University class.
