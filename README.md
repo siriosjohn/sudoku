@@ -1,6 +1,6 @@
 # sudoku
 
-This is a simple C program to generate, solve and check sudoku Puzzles using backtracking and recursion.
+This is a C program to generate, solve and check sudoku Puzzles using backtracking and recursion.
 
 Accpetable arguments:
 
